@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\bin\Debug\net6.0\ZadachaItog.exe
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\bin\Debug\net6.0\ZadachaItog.deps.json
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\bin\Debug\net6.0\ZadachaItog.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\bin\Debug\net6.0\ZadachaItog.dll
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\bin\Debug\net6.0\ZadachaItog.pdb
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.dll
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\refint\ZadachaItog.dll
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.pdb
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ZadachaItog.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\ZadachaItog\obj\Debug\net6.0\ref\ZadachaItog.dll
